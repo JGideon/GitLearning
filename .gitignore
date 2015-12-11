@@ -1,4 +1,5 @@
 *~
+.gitignore
 .DS_Store
 *.xcscheme
 xcschememanagement.plist
